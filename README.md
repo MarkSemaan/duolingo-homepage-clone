@@ -4,7 +4,8 @@ A responsive clone of Duolingo's homepage interface focusing on Flexbox layouts.
 
 ![image](https://github.com/user-attachments/assets/77e03ad7-2589-499e-a26f-4f1be0f3c9b5)
 
-![image](https://github.com/user-attachments/assets/d215687a-e18d-4125-a02e-bf64bc6e55ca)
+![image](https://github.com/user-attachments/assets/b43a7eed-4814-4718-bee7-5df46a4fc9dd)
+
 
 
 ## Features
