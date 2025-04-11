@@ -146,12 +146,6 @@
     height: 50px;
 }
 
-.content{
-    display: block;
-    align-items: center;
-    justify-content: center;
-}
-
 .description{
     display: flex;
     flex-direction: column;
